@@ -1,0 +1,12 @@
+/users/get --> users data
+/users/post--> users data jismoniy shaxslar uchun qo'shish
+/users/post/company--> users data yuridik shaxslar qo'shish
+
+/login --> username='mirsidiq' password='123456789'
+/cards --> e'lonlar
+/cards/post --> e'lon berish
+/cards/put/:id--> e'lonni saytga qo'shish //admin tomondan tasdiqlash
+/cards/delete/:id --> e'lonni rad etish
+/categories --> categoriyalar
+/categories/post--> categoriya qo'shish
+/subcategories --> subcategoriyalar
